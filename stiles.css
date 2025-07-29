@@ -22,7 +22,7 @@ margin-bottom: 20px;
 }
 
 p{
-    width: 50rem;
+    width: 49rem;
     color: rgb(80, 101, 126);
     font-size: 30px;
     margin-bottom: 20px;
@@ -67,11 +67,11 @@ img{
     top: 200px;
 }
 
-@media screen and (max-width: 1400px){
+@media screen and (max-width: 1300px){
 
-   h1{
+   .text h1{
     font-size: 70px;
-    width: 900px;
+    width: 500px;
     position: absolute;
     margin-top: -250px;
     text-align: center;
@@ -90,9 +90,9 @@ img{
 
   
    img{
-    position: absolute;
+    position: relative;
     width:350px;
-    left: 62%;
+    
     
    }
 
@@ -103,22 +103,24 @@ img{
 
 @media screen and (max-width: 700px){
 
-    .text{
+    .text{ 
+        position: absolute;
         text-align: center;
+        justify-content: center;
         align-items: center;
     }
-    h1{
-    font-size: 45px;
+   div h1{
+    font-size: 30px;
     width: 320px;
     position: absolute;
-    margin-top: -250px;
-    text-align: center;
+    margin-top: 30px;
+    
    }
 
-   p{
+    p{
     font-size: 20px;
     width: 320px;
-    text-align: center;
+    margin-left: 100px;
    }
 
    header{
@@ -128,13 +130,14 @@ img{
   
    img{
     position: absolute;
-    width:250px;
-    left: 15%;
-    top: 80%;
+    width:290px;
+    left: 20%;
+    margin-right: 20%;
+    top: 65%;
    }
 
    button{
-    margin-left: 1%;
+    margin-left: 18%;
    }
 
 
