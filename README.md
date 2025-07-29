@@ -8,4 +8,6 @@
 <img width="1912" height="906" alt="Captura de tela 2025-07-28 205850" src="https://github.com/user-attachments/assets/13bae869-c766-4944-bcb3-4c4534d1f1a3" />
 <img width="522" height="684" alt="Captura de tela 2025-07-28 205830" src="https://github.com/user-attachments/assets/05974c17-619b-47c5-9b4a-4f1757155519" />
 
+ <h2>⬇️Abra o site na pagina aqui </h2> 
+ 
 <a href=https://joao-mateus-martins.github.io/Easy-Shopping/>![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)</a>
